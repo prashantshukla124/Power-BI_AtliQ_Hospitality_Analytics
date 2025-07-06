@@ -1,6 +1,7 @@
 # Power-BI_AtliQ_Hospitality_Analytics
 # 🏨 AtliQ Grands Hospitality Analytics Project
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6947e264-0b99-4530-9af2-2b7be58a156d" />
+
 # Live Dashboard Link:
 
 https://app.powerbi.com/view?r=eyJrIjoiMmJjNWEwOGYtMTI1ZS00NDhmLWE2N2ItMjdhYTMwYzE4ODZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
